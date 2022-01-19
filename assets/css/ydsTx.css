@@ -1,0 +1,19 @@
+.home-img {
+  border-radius: 5%;
+}
+
+.text-orange{
+  color: #ed8936;
+}
+
+.text-gray {
+  color: #718096;
+}
+
+.list-none {
+  list-style-type: none;
+}
+
+ol, ul {
+  list-style: none;
+}
